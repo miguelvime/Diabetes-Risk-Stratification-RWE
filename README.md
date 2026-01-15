@@ -11,7 +11,7 @@ The analysis challenges the assuption of linear risk, applying **Logistic Regres
 * Intervention protocols should prioritize patients before they cross the obesity threshold, patients knowing this could improve adherence to treatment as they could get more benefit from taking action.
 
 ## Visual Evidence
-![Risk Curve](2026_01_14_Modelo_BMI_Diabetes)
+![Risk Curve](2026_01_14_Modelo_BMI_Diabetes.png)
 ## Tech Stack
 * **Language:** R
 * **Libraries:** 'tidyverse', 'ggplot2'
